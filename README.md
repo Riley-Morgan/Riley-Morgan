@@ -7,5 +7,5 @@ I am a JavaScript Developer, former collegiate athlete, and lover of sharks!
 - 👯 I’m looking to collaborate on projects using React.js.
 - 🤔 I’m looking for help with building products/projects that will be used in everyday life.
 - ⚡ Fun fact: Hummingbirds can break the sound barrier with thier tail feathers!
-- ✉ Contact me here: 'https://www.linkedin.com/in/rileymorgan/'
+- ✉ Contact me here: https://www.linkedin.com/in/rileymorgan/
 
